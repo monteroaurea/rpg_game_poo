@@ -1,0 +1,17 @@
+/Users/aureamontero/obj/Debug/net6.0/aureamontero.csproj.AssemblyReference.cache
+/Users/aureamontero/obj/Debug/net6.0/aureamontero.csproj.GenerateResource.cache
+/Users/aureamontero/POO/bin/Debug/net6.0/aureamontero
+/Users/aureamontero/POO/bin/Debug/net6.0/aureamontero.deps.json
+/Users/aureamontero/POO/bin/Debug/net6.0/aureamontero.runtimeconfig.json
+/Users/aureamontero/POO/bin/Debug/net6.0/aureamontero.dll
+/Users/aureamontero/POO/bin/Debug/net6.0/aureamontero.pdb
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.csproj.AssemblyReference.cache
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.AssemblyInfoInputs.cache
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.AssemblyInfo.cs
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.csproj.CoreCompileInputs.cache
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.dll
+/Users/aureamontero/POO/obj/Debug/net6.0/refint/aureamontero.dll
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.pdb
+/Users/aureamontero/POO/obj/Debug/net6.0/aureamontero.genruntimeconfig.cache
+/Users/aureamontero/POO/obj/Debug/net6.0/ref/aureamontero.dll
